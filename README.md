@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with passing the 
+- 💬 Ask me about productivity tips
+- 📫 How to reach me: on my Linkedin profile
+- 😄 Pronouns: it is only me
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
@@ -45,26 +45,27 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on transfering professional productivity project here on GitHub and passing the PL-900
+- 🌱 I’m currently learning Power BI
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with passing the DP-500
+- 💬 Ask me about productivity tips
+- 📫 How to reach me: on my Linkedin Profile
+- 😄 Pronouns: it is only me
+- ⚡ Fun fact: I like learning (like a lot of learning)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="PowerBI" alt="Power BI" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="SQL Server" alt="SQL Server" height="40"/>&nbsp;
+  
 </div>
 
 
@@ -72,6 +73,6 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=va5ka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=va5ka&theme=dark&background=30D5C8)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va5ka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va5ka&layout=compact&bg_color=30D5C8)](https://github.com/anuraghazra/github-readme-stats)
